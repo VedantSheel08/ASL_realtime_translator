@@ -1,6 +1,6 @@
 you can find my dataset on this link: https://drive.google.com/drive/folders/1anYOxiMPxFQFCIpLzAxnzurZlHNnKFZO
 full projectboard: https://projectboard.world/ysc/project/a-voice-for-the-voiceless
-I CREATED THIS DATASET MYSELF
+i created this dataset myself
 
 **Introduction**
 American Sign Language (ASL) is a natural and ancient form of human communication. Computer vision research has taken an interest in recognizing human gestures from camera images. A real-time translating python program that can translate ASL characters into computer-generated speech in real-time was created, using Convolutional Neural Networks (CNN). 
