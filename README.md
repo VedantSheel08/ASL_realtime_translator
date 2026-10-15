@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/asl-system-architecture.svg" alt="Real-time ASL recognition system architecture — Vedant Sheel" width="100%"></p>
+
 you can find my dataset on this link: https://drive.google.com/drive/folders/1anYOxiMPxFQFCIpLzAxnzurZlHNnKFZO
 full projectboard: https://projectboard.world/ysc/project/a-voice-for-the-voiceless
 i created this dataset myself
